@@ -6,3 +6,5 @@ Data: folder with csv files of all data used in the project
 Siege Time Series.RmD: R Markdown file containing the code 
 
 R Code and Output: Knitted markdown file containing the the code and output of the project
+
+Sieger Report: Summary of methodology, modeling, results and recommendations.
